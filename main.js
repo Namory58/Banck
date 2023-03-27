@@ -1,9 +1,9 @@
-function hello(){
-   
+function salut(Name){
+    console.log("hello "+ Name);
 }
-function log(message){
-    console.log(message);
+function login(name,password){
+    console.log(name);
+    console.log(password);
 }
-
 
    
