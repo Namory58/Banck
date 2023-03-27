@@ -1,8 +1,8 @@
 function hello(){
-   log("message")
+   
 }
-function log(string message){
-    log(message);
+function log(message){
+    console.log(message);
 }
 
 
