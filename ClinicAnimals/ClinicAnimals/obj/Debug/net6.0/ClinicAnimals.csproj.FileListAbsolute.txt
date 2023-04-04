@@ -1,0 +1,15 @@
+C:\Users\nnamo\OneDrive\Bureau\charp\ClinicAnimals\ClinicAnimals\obj\Debug\net6.0\ClinicAnimals.csproj.AssemblyReference.cache
+C:\Users\nnamo\OneDrive\Bureau\charp\ClinicAnimals\ClinicAnimals\obj\Debug\net6.0\ClinicAnimals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnamo\OneDrive\Bureau\charp\ClinicAnimals\ClinicAnimals\obj\Debug\net6.0\ClinicAnimals.AssemblyInfoInputs.cache
+C:\Users\nnamo\OneDrive\Bureau\charp\ClinicAnimals\ClinicAnimals\obj\Debug\net6.0\ClinicAnimals.AssemblyInfo.cs
+C:\Users\nnamo\OneDrive\Bureau\charp\ClinicAnimals\ClinicAnimals\obj\Debug\net6.0\ClinicAnimals.csproj.CoreCompileInputs.cache
+C:\Users\nnamo\OneDrive\Bureau\charp\ClinicAnimals\ClinicAnimals\bin\Debug\net6.0\ClinicAnimals.exe
+C:\Users\nnamo\OneDrive\Bureau\charp\ClinicAnimals\ClinicAnimals\bin\Debug\net6.0\ClinicAnimals.deps.json
+C:\Users\nnamo\OneDrive\Bureau\charp\ClinicAnimals\ClinicAnimals\bin\Debug\net6.0\ClinicAnimals.runtimeconfig.json
+C:\Users\nnamo\OneDrive\Bureau\charp\ClinicAnimals\ClinicAnimals\bin\Debug\net6.0\ClinicAnimals.dll
+C:\Users\nnamo\OneDrive\Bureau\charp\ClinicAnimals\ClinicAnimals\bin\Debug\net6.0\ClinicAnimals.pdb
+C:\Users\nnamo\OneDrive\Bureau\charp\ClinicAnimals\ClinicAnimals\obj\Debug\net6.0\ClinicAnimals.dll
+C:\Users\nnamo\OneDrive\Bureau\charp\ClinicAnimals\ClinicAnimals\obj\Debug\net6.0\refint\ClinicAnimals.dll
+C:\Users\nnamo\OneDrive\Bureau\charp\ClinicAnimals\ClinicAnimals\obj\Debug\net6.0\ClinicAnimals.pdb
+C:\Users\nnamo\OneDrive\Bureau\charp\ClinicAnimals\ClinicAnimals\obj\Debug\net6.0\ClinicAnimals.genruntimeconfig.cache
+C:\Users\nnamo\OneDrive\Bureau\charp\ClinicAnimals\ClinicAnimals\obj\Debug\net6.0\ref\ClinicAnimals.dll
